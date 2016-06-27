@@ -1,0 +1,9 @@
+[package]
+name = "gitBotTelegram"
+version = "0.1.0"
+authors = ["Anton Shramko <antonshramko@yandex.ru>"]
+
+[dependencies]
+telegram-bot="*"
+rustc-serialize="*"
+regex="*"
