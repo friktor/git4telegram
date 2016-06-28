@@ -1,2 +1,2 @@
-# TELEGRAM_BOT_TOKEN=237798479:AAGV2AHmkhzMbtIsMIklZisqmHXsbnNjN68 cargo run
-cargo build --release; TELEGRAM_BOT_TOKEN=237798479:AAGV2AHmkhzMbtIsMIklZisqmHXsbnNjN68 ./target/release/gitBotTelegram
+# TELEGRAM_BOT_TOKEN=BOT_TOKEN cargo run
+cargo build --release; TELEGRAM_BOT_TOKEN=BOT_TOKEN ./target/release/gitBotTelegram
